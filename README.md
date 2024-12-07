@@ -2,8 +2,10 @@
 <h3 align="center">I'm Kacper Mikołajuk</h3>
 
 <br>
+
 + :anchor: Computer Science student @ Gdańsk University of Technology
-<br>
+  
+
 <br><br>
 
 
