@@ -1,35 +1,25 @@
-<h1 align="center">Hello 👋, </h1>
-<h3 align="center">I'm Kacper Mikołajuk</h3>
+# Hi there, I'm Kacper 👋
 
-<br>
+I'm a Computer Science student at the Gdańsk University of Technology (WETI) deeply passionate about **Backend Engineering**, **System Design**, and **Artificial Intelligence**. I love building robust, scalable applications, designing efficient architectures, and exploring how AI can solve complex, real-world problems.
 
-+ :anchor: Computer Science student @ Gdańsk University of Technology
-  
+## 🚀 About Me
+*  My primary focus is on backend development and designing distributed, highly scalable systems.
+*  I have a strong and active interest in Artificial Intelligence, machine learning concepts, and data-driven solutions.
+*  I am currently diving deeper into the .NET ecosystem and actively expanding my knowledge of **C#**.
+*  I enjoy solving complex architectural challenges, optimizing system performance, and working with containerized environments.
 
-<br><br>
+## 🛠️ Tech Stack & Skills
+* **Programming Languages:** Python, Java, C, C++.
+* **Backend & Architecture:** System Design, Microservices, REST APIs, Inter-Process Communication (IPC), Multithreading.
+* **AI & Data:** Artificial Intelligence, Data Analysis, Relational Databases.
+* **Frameworks & UI:** Spring Boot, Flutter.
+* **DevOps & Tools:** Docker, Docker Compose, Git, Linux.
 
+## 📂 Highlighted Projects
+* **[Chess Without Search](https://github.com/TheOlgen/Chess-CheckersTransformer)** (Collaborative): Research on decoder-only Transformers for move prediction in chess and draughts, replacing traditional search algorithms.
+* **[Distributed Processing & Consensus](https://github.com/Gikii/PR) (Lab6&7)**: *Built a C++ client-server chat application with offline message queuing, and simulated the Raft distributed consensus algorithm using Python's asyncio.*
+* **[Financial Analysis & Numerical Solvers](https://github.com/Gikii/NM-macd)** *Implemented mathematical models from scratch in Python, including a MACD financial trading indicator simulator and direct/iterative matrix equation solvers.*
 
-
-
----
->"The happiness of your life depends upon the quality of your thoughts."
->
->Marcus Aurelius
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-
-<!--
-**Gikii/Gikii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+* **LinkedIn:** [Click here to visit my profile](https://www.linkedin.com/in/kacper-miko%C5%82ajuk-a5b4703b3/)
+* **Email:** [kacpermikolajuk8@gmail.com](mailto:kacpermikolajuk8@gmail.com)
